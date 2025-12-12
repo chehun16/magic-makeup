@@ -12,6 +12,7 @@ When a user uploads an image of a desired cosmetic product (e.g., lipstick, blus
 The extracted color and texture are then naturally applied to the user’s face image using MediaPipe’s facial landmark detection. <br>
 This system addresses the color mismatch problem commonly encountered in online cosmetic purchases and provides users with a personalized virtual makeup experience.
 
+<br>
 
 <h2>Getting Started</h2>
 
@@ -21,10 +22,16 @@ This system addresses the color mismatch problem commonly encountered in online 
     ```
 - Refer to our documentation for detailed instructions > 링크넣기
 - Read our project report for more details > 링크넣기
-
+<br>
 
 <h2>Pipeline</h2>
-<img src='./assets/pipeline.png' width=650><br><br>
+<img src='./assets/pipeline.png' width=650><br>
 
 <h2>Results</h2>
+<h3>Color Extraction</h3>
 <img src='./assets/color_extraction.png' width=800><br><br>
+
+<h3>Makeup Application</h3>
+<img src='./assets/makeup_applied_1.png' width=800><br>
+The makeup application pipeline works well even on extreme colors:
+<img src='./assets/makeup_applied_2.png' width=800><br><br>
