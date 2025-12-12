@@ -14,3 +14,14 @@ This system addresses the color mismatch problem commonly encountered in online 
 
 
 <h2>Getting Started</h2>
+
+- You can try out our demo by running:
+    ```
+    magicmakeup_demo.ipynb
+    ```
+- Refer to our documentation for detailed instructions > 링크넣기
+- Read our project report for more details > 링크넣기
+
+
+<h2>Pipeline</h2>
+
