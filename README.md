@@ -33,5 +33,5 @@ This system addresses the color mismatch problem commonly encountered in online 
 
 <h3>Makeup Application</h3>
 <img src='./assets/makeup_applied_1.png' width=650><br>
-The makeup application pipeline works well even on extreme colors:
+The makeup application pipeline works well even with extreme colors:
 <img src='./assets/makeup_applied_2.png' width=650><br><br>
