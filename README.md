@@ -24,4 +24,4 @@ This system addresses the color mismatch problem commonly encountered in online 
 
 
 <h2>Pipeline</h2>
-
+<img src='./assets/pipeline.png' width=650><br><br>
