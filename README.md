@@ -27,3 +27,4 @@ This system addresses the color mismatch problem commonly encountered in online 
 <img src='./assets/pipeline.png' width=650><br><br>
 
 <h2>Results</h2>
+<img src='./assets/color_extraction.png' width=800><br><br>
