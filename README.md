@@ -5,6 +5,10 @@
 
 </div>
 
+<h2>Project Page</h2>
+
+[Magic-Makeup](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
+
 <h2>Introduction</h2>
 
 This project proposes **Magic Makeup**, a virtual makeup system that extracts colors from cosmetic product images and automatically applies them to a user’s facial image. <br>
