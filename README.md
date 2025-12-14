@@ -5,9 +5,6 @@
 
 </div>
 
-<h2>Project Page</h2>
-
-To explore the full project description, demo instructions, and visual examples, check out our 
 
 <h2>Introduction</h2>
 
@@ -24,8 +21,8 @@ This system addresses the color mismatch problem commonly encountered in online 
     ```
     magicmakeup_demo.ipynb
     ```
-- Refer to our documentation for detailed instructions : [Notion project page](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
-- Read our project report for more details : 
+- Refer to our documentation for detailed instructions : [link to documentation](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
+- Read our project report for more details : [link to project report](https://drive.google.com/file/d/1T82ZGh8JtCP74HB_O5L_im5G1l6MjxY8/view?usp=sharing)
 <br>
 
 <h2>Pipeline</h2>
