@@ -7,7 +7,7 @@
 
 <h2>Project Page</h2>
 
-[Magic-Makeup](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
+To explore the full project description, demo instructions, and visual examples, check out our [Notion project page(Magic-Makeup)](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
 
 <h2>Introduction</h2>
 
