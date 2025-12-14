@@ -7,7 +7,7 @@
 
 <h2>Project Page</h2>
 
-To explore the full project description, demo instructions, and visual examples, check out our [Notion project page(Magic-Makeup)](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
+To explore the full project description, demo instructions, and visual examples, check out our 
 
 <h2>Introduction</h2>
 
@@ -24,8 +24,8 @@ This system addresses the color mismatch problem commonly encountered in online 
     ```
     magicmakeup_demo.ipynb
     ```
-- Refer to our documentation for detailed instructions > 링크넣기
-- Read our project report for more details > 링크넣기
+- Refer to our documentation for detailed instructions : [Notion project page](https://octagonal-seal-4cc.notion.site/Magic-Makeup-2c7de10eb46a804398ece7f26a552ff3)
+- Read our project report for more details : 
 <br>
 
 <h2>Pipeline</h2>
